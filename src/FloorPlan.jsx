@@ -1,7 +1,7 @@
-import Kitchen from "./src/Kitchen";
+import Kitchen from "./Kitchen";
 import LivingRoom from "./LivingRoom";
-import Bedroom from "./src/Bedroom";
-import Bath from "./src/Bath";
+import Bedroom from "./Bedroom";
+import Bath from "./Bath";
 
 const FloorPlan = () => {
   return ( 

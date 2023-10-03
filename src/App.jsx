@@ -1,7 +1,6 @@
-import FloorPlan from '../FloorPlan'
+import FloorPlan from './FloorPlan'
 import './App.css'
-// import Bath from './Bath'
-// import Kitchen from './Kitchen'
+
 
 function App() {
 
