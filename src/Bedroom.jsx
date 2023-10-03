@@ -1,6 +1,9 @@
 const Bedroom = () => {
   return ( 
-    <h4>This is the Kitchen</h4>
+    <div>
+      <h4>Bedroom</h4>
+    </div>
+    
   );
 }
  

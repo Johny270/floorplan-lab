@@ -1,6 +1,8 @@
 const Sink = () => {
   return ( 
-    <h4>This is the Kitchen</h4>
+    <div>
+      <h4>Sink</h4>
+    </div>
   );
 }
  

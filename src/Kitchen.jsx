@@ -1,6 +1,14 @@
+import Oven from "./Oven";
+import Sink from "./Sink";
+
 const Kitchen = () => {
   return ( 
-    <h4>This is the Kitchen</h4>
+    
+    <div>
+      <h4>Kitchen</h4>
+      <Oven />
+      <Sink />
+    </div>
   );
 }
  
